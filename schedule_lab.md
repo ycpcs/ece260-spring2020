@@ -14,6 +14,20 @@ Each week, when a new lab is assigned, you should be working on the *NEW* lab, n
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
 Week of Jan 27 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week after assigned
+Week of Feb 3  |  |
+Week of Feb 10 |  |
+Week of Feb 17 |  |
+Week of Feb 24 |  |
+Week of Mar 2  |  **NO LAB - Winter Break**                                             |
+Week of Mar 9  |  |
+Week of Mar 16 |  |
+Week of Mar 23 |  |
+Week of Mar 30 |  |
+Week of Apr 6  |  **NO LAB - Spring Vacation**                                          |
+Week of Apr 13 |  |
+Week of Apr 20 |  |
+Week of Apr 27 |  |
+Week of May 7  |  **NO LAB - Last Week of Classes**                                     |
 
 
 <!-- Week of Feb 3  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned -->
@@ -30,15 +44,3 @@ Week of Jan 27 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.h
 <!-- Week of Apr 20 |  [Introduction to ARM Assembly](labs/lab09.html)                       |  1 week after assigned -->
 <!-- Week of Apr 27 |  [Loop and Function Optimization](labs/lab10.html)                     |  1 week after assigned -->
 <!-- Week of May 7  |  **NO LAB - Last Week of Classes**                                     | -->
-
-
-<!-- [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html) -->
-<!-- [Computer Architecture](labs/lab02.html) -->
-<!-- [Intro to MIPS Assembly](labs/lab03.html) -->
-<!-- [Branching and Conditional Assembly](labs/lab04.html) -->
-<!-- [MIPS Procedures](labs/lab05.html) -->
-<!-- [More MIPS Procedures](labs/lab06.html) -->
-<!-- [Introduction to Floating-Point Operations](labs/lab07.html) -->
-<!-- [More Fun with Floats](labs/lab08.html) -->
-<!-- [Introduction to ARM Assembly](labs/lab09.html) -->
-<!-- [Loop and Function Optimization](labs/lab10.html) -->
