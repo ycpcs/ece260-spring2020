@@ -14,6 +14,8 @@ Each week, when a new lab is assigned, you should be working on the *NEW* lab, n
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
 Week of Jan 27 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week after assigned
+
+
 <!-- Week of Feb 3  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned -->
 <!-- Week of Feb 10 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week after assigned -->
 <!-- Week of Feb 17 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  1 week after assigned -->
