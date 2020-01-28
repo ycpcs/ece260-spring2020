@@ -26,7 +26,7 @@ title: Syllabus
 **Email:** <jmoscola@ycp.edu><br>
 **Office:** KEC 108<br>
 **Phone:** (717) 815-1276<br>
-**Office Hours:** M: 12:00 PM - 2:00 PM;  T R: 2:00 PM - 3:00 PM; F: 12:00 PM - 1:00 PM;
+**Office Hours:** M: 12:00 PM - 2:00 PM; T R: 2:00 PM - 3:00 PM; F: 12:00 PM - 1:00 PM;
 
  
 **Instructor:** Brian Hetsko<br>
