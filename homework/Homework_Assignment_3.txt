@@ -1,0 +1,36 @@
+####################################################################
+ECE260
+HW3
+####################################################################
+Physical copy is to be submitted in class on the due date.
+####################################################################
+
+INSTRUCTIONS:
+##############
+Complete the selected exercises from your online text book.
+Each exercise (or part) is worth from 0 to 3 points.
+
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH EXERCISE
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH EXERCISE
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH EXERCISE
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH EXERCISE
+
+####################################################################
+
+
+
+These exercises are all from section 2.22 of your zyBook
+======================
+2.9    (0 - 3 points)
+2.14   (0 - 3 points)
+2.23   (0 - 3 points)
+2.24   (0 - 3 points)
+2.26.1 (0 - 3 points)
+
+
+
+####################################################################
+
+TOTAL POINTS: (0 - 15 points)
+
+####################################################################
