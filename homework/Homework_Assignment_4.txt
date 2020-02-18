@@ -1,0 +1,48 @@
+####################################################################
+ECE260
+HW4
+####################################################################
+Physical copy is to be submitted in class on the due date.
+####################################################################
+
+INSTRUCTIONS:
+##############
+Complete the selected exercises from your online text book.
+Each problem (or part) is worth from 0 to 3 points.
+
+####################################################################
+
+
+
+These exercises are all from section 2.22 of your zyBook
+====================
+2.27   (0 - 3 points)
+2.29   (0 - 3 points)
+2.34   (0 - 3 points)
+
+
+
+(0 - 3 points)
+====================
+Implement the following procedure in MIPS assembly. 
+Assume that swap(array[], i, j) takes an array reference and will 
+perform a swap of elements array[i] and array[j]. 
+(Hint: you may want to test out your program by writing a small 
+example in MARS)
+
+
+    void swap(int array[], int i, int j)
+    {
+        int temp;
+        temp = array[i];	
+        array[i] = array[j];
+        array[j] = temp;
+        return;
+    }
+
+
+####################################################################
+
+TOTAL POINTS: (0 - 12 points)
+
+####################################################################
