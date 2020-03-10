@@ -19,8 +19,8 @@ Week of Feb 10 |  [Intro to MIPS Assembly](labs/lab03.html)                     
 Week of Feb 17 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  1 week after assigned
 Week of Feb 24 |  [MIPS Procedures](labs/lab05.html)                                    |  2 weeks after assigned
 Week of Mar 2  |  **NO LAB - Winter Break**                                             |
-Week of Mar 9  |  |
-Week of Mar 16 |  |
+Week of Mar 9  |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
+Week of Mar 16 |  (continue work on Lab06)                                              | 
 Week of Mar 23 |  |
 Week of Mar 30 |  |
 Week of Apr 6  |  **NO LAB - Spring Vacation**                                          |
