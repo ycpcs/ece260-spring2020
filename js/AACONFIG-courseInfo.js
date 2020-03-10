@@ -66,13 +66,13 @@ var courseInfo = {
             //assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 7)
         },
         {
-            topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
-            reading: new Reading("Assign#9 § 2.12")
+            topic: new Topic( "Reviewed Homework #4 / Supporting Nested Procedures (continued)", "lectures/lecture8_Supporting_Nested_Procedures.pdf" )
+            //assign: new Homework("Homework #4", "homework/Homework_Assignment_4.txt", 7)
         },
         {
             topic: new Topic( "** Exam #1", "" )
         },
-        {
+        {    // 3/12/2020 ... CE candidate gave this lecture
             topic: new Topic( "Arithmetic for Computers", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
             reading: new Reading("Assign #10 §§ 3.1 - 3.3"),
             assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
@@ -80,6 +80,11 @@ var courseInfo = {
         {
             topic: new Topic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
             reading: new Reading("Assign #11 §§ 3.4 - 3.5")
+        },
+        {   // 3/09/2020 ... this was originally before break and before "Arithmetic for Computers", but candidate schedules bumped it
+            // move it back before "Arithmetic for Computers"
+            topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
+            reading: new Reading("Assign#9 § 2.12 (probably already did this one)")
         },
         {
             topic: new Topic( "Datapath for a Simplified Processor", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf" ),
