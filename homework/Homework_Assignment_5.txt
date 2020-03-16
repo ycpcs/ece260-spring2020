@@ -1,0 +1,46 @@
+####################################################################
+ECE260
+HW5
+####################################################################
+Physical copy is to be submitted in class on the due date.
+####################################################################
+
+INSTRUCTIONS:
+##############
+Complete the selected exercises from your online text book.
+Each problem (or part) is worth from 0 to 3 points.
+
+####################################################################
+
+
+
+These exercises are all from section 3.12 of your zyBook
+======================
+3.6    (0 - 3 points)
+
+** Note on problems 3.9-3.10 - for positive input values that are 
+** greater than 127, be sure to treat them the same way an 8-bit
+** processor would when doing signed arithmetic!!
+3.9    (0 - 3 points)
+3.10   (0 - 3 points)
+3.11   (0 - 3 points)
+
+3.12   (0 - 3 points) ** treat 6-bit values as octal
+3.13   (0 - 3 points)
+
+3.18   (0 - 3 points) ** treat 6-bit values as octal
+3.19   (0 - 3 points) ** treat 6-bit values as octal
+  HINT: start each iteration by shifting the entire 
+        64-bit Remainder register left 1 bit
+
+3.22   (0 - 3 points)
+3.23   (0 - 3 points)
+3.24   (0 - 3 points)
+
+
+
+####################################################################
+
+TOTAL POINTS: (0 - 33 points)
+
+####################################################################
