@@ -75,11 +75,21 @@ var courseInfo = {
         {    // 3/12/2020 ... CE candidate gave this lecture
             topic: new Topic( "Arithmetic for Computers", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
             reading: new Reading("Assign #10 §§ 3.1 - 3.3"),
-            assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
+//             assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
         },
+        
+        
+        
         {
-            topic: new Topic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
-            reading: new Reading("Assign #11 §§ 3.4 - 3.5")
+//             topic: new Topic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
+            topic: new DoubleTopic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf", "Video Lecture", "https://use.vg/FeFU1B" ),
+            reading: new Reading("Assign #10 §§ 3.1 - 3.4"),
+            assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
+        },                
+        {
+            topic: new Topic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
+// 			topic: new DoubleTopic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf", "Video Lecture", "https://www." ),
+            reading: new Reading("Assign #11 §§ 3.5")
         },
         {   // 3/09/2020 ... this was originally before break and before "Arithmetic for Computers", but candidate schedules bumped it
             // move it back before "Arithmetic for Computers"
