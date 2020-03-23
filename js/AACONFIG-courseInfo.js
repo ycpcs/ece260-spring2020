@@ -87,8 +87,8 @@ var courseInfo = {
             assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
         },                
         {
-            topic: new Topic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
-// 			topic: new DoubleTopic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf", "Video Lecture", "https://www." ),
+//             topic: new Topic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
+			topic: new DoubleTopic( "Floating Point Values", "lectures/lecture11_Arithmetic_for_Computers.pdf", "Video Lecture", "https://use.vg/I7rLyo" ),
             reading: new Reading("Assign #11 §§ 3.5")
         },
         {   // 3/09/2020 ... this was originally before break and before "Arithmetic for Computers", but candidate schedules bumped it
