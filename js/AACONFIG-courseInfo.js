@@ -93,7 +93,8 @@ var courseInfo = {
         },
         {   // 3/09/2020 ... this was originally before break and before "Arithmetic for Computers", but candidate schedules bumped it
             // move it back before "Arithmetic for Computers"
-            topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
+//             topic: new Topic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf" ),
+            topic: new DoubleTopic( "Translation of High-Level Languages", "lectures/lecture10_Translation_of_High-Level_Languages.pdf", "Video Lecture", "https://use.vg/UC2Lqn"  ),
             reading: new Reading("Assign#9 § 2.12 (probably already did this one)")
         },
         {
