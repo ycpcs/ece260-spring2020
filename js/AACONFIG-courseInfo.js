@@ -77,9 +77,9 @@ var courseInfo = {
             reading: new Reading("Assign #10 §§ 3.1 - 3.3"),
 //             assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
         },
-        
-        
-        
+
+
+
         {
 //             topic: new Topic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
             topic: new DoubleTopic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf", "Video Lecture", "https://use.vg/FeFU1B" ),
@@ -98,7 +98,8 @@ var courseInfo = {
             reading: new Reading("Assign#9 § 2.12 (probably already did this one)")
         },
         {
-            topic: new Topic( "Datapath for a Simplified Processor", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf" ),
+//             topic: new Topic( "Datapath for a Simplified Processor", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf" ),
+            topic: new DoubleTopic( "Datapath for a Simplified Processor", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf", "Video Lecture", "https://use.vg/p2uDWg" ),
             reading: new Reading("Assign #12 §§ 4.1 - 4.3"),
             assign: new Homework("Homework #6", "homework/Homework_Assignment_6.txt", 7)
         },
