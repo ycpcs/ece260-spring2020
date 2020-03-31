@@ -22,7 +22,7 @@ Week of Mar 2  |  **NO LAB - Winter Break**                                     
 Week of Mar 9  |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
 Week of Mar 16 |  (continue work on Lab06)                                              | 
 Week of Mar 23 |  [Introduction to Floating-Point Operations](labs/lab07.html)          |  1 week after assigned
-Week of Mar 30 |  |
+Week of Mar 30 |  [More Fun with Floats](labs/lab08.html)                               |  2 weeks after assigned
 Week of Apr 6  |  **NO LAB - Spring Vacation**                                          |
 Week of Apr 13 |  |
 Week of Apr 20 |  |
