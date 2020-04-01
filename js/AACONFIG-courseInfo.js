@@ -78,7 +78,9 @@ var courseInfo = {
 //             assign: new Homework("Homework #5", "homework/Homework_Assignment_5.txt", 7)
         },
 
-
+// ======================================================== //
+// ================  BEGIN ONLINE TEACHING ================ //
+// ======================================================== //
 
         {
 //             topic: new Topic( "Arithmetic for Computers (continued)", "lectures/lecture11_Arithmetic_for_Computers.pdf" ),
@@ -104,7 +106,8 @@ var courseInfo = {
             assign: new Homework("Homework #6", "homework/Homework_Assignment_6.txt", 7)
         },
         {
-            topic: new Topic( "Datapath for a Simplified Processor (continued)", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf" ),
+//             topic: new Topic( "Datapath for a Simplified Processor (continued)", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf" ),
+            topic: new DoubleTopic( "Datapath for a Simplified Processor (continued)", "lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf", "Video Lecture", "https://use.vg/PqoVML" ),
             reading: new Reading("Assign #13 § 4.4")
         },
 //         {
