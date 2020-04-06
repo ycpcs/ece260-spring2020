@@ -114,7 +114,8 @@ var courseInfo = {
 //             topic: new Topic( "Review Homework #6" )
 //         },
         {
-            topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
+//             topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
+            topic: new DoubleTopic( "Pipelining", "lectures/lecture13_Pipelining.pdf", "Video Lecture", "https://use.vg/WucvJW" ),
             reading: new Reading("Assign #14 § 4.5"),
             assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 12)
         },
