@@ -1,0 +1,36 @@
+####################################################################
+ECE260
+HW7
+####################################################################
+Physical copy is to be submitted in class on the due date.
+####################################################################
+
+INSTRUCTIONS:
+##############
+Complete the selected exercises from your online text book.
+Each problem (or part) is worth from 0 to 3 points.
+
+####################################################################
+ 
+
+These exercises are all from section 4.17 of your zyBook
+======================
+4.8.1    (0 - 3 points)
+4.8.2    (0 - 3 points)
+4.8.3    (0 - 3 points)
+
+4.9.1    (0 - 3 points)
+4.9.2    (0 - 3 points)
+4.9.3    (0 - 3 points)
+4.9.4    (0 - 3 points)
+
+4.10.1   (0 - 3 points)
+
+4.13.1   (0 - 3 points)
+4.13.2   (0 - 3 points)
+
+####################################################################
+
+TOTAL POINTS: (0 - 30 points)
+
+####################################################################

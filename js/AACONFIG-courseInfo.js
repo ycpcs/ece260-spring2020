@@ -117,7 +117,7 @@ var courseInfo = {
 //             topic: new Topic( "Pipelining", "lectures/lecture13_Pipelining.pdf" ),
             topic: new DoubleTopic( "Pipelining", "lectures/lecture13_Pipelining.pdf", "Video Lecture", "https://use.vg/WucvJW" ),
             reading: new Reading("Assign #14 § 4.5"),
-            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 12)
+            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 14)
         },
         {
             topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf" ),
@@ -128,16 +128,16 @@ var courseInfo = {
             topic: new Topic( "Data Hazards in a Pipelined Datapath", "lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf" ),
             reading: new Reading("Assign #16 §§ 4.7 - 4.8")
         },
-//         {
-//             topic: new Topic( "Review Homework #7" )
-//         },
+        {
+            topic: new Topic( "Review Homework #7" )
+        },
         {
             topic: new Topic( "** Exam #2", "" )
         },
         {
             topic: new Topic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf" ),
             reading: new Reading("Assign #17 §§ 5.1 - 5.2"),
-            assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 12)
+            assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 7)
         },
         {
             topic: new Topic( "Basics of Cache Memory", "lectures/lecture17_Basics_of_Cache_Memory.pdf" ),
