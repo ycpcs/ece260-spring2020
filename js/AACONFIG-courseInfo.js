@@ -120,7 +120,8 @@ var courseInfo = {
             assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 14)
         },
         {
-            topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf" ),
+//             topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf" ),
+            topic: new DoubleTopic( "Pipelined Datapath and Control", "lectures/lecture14_Pipelined_Datapath_and_Control.pdf", "Video Lecture", "https://use.vg/kjL6YN" ),
             reading: new Reading("Assign #15 § 4.6")
 
         },
