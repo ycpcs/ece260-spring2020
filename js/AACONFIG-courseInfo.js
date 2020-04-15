@@ -126,7 +126,8 @@ var courseInfo = {
 
         },
         {
-            topic: new Topic( "Data Hazards in a Pipelined Datapath", "lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf" ),
+//             topic: new Topic( "Data Hazards in a Pipelined Datapath", "lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf" ),
+            topic: new DoubleTopic( "Data Hazards in a Pipelined Datapath", "lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf", "Video Lecture", "https://use.vg/ApKPXp" ),
             reading: new Reading("Assign #16 §§ 4.7 - 4.8")
         },
         {
