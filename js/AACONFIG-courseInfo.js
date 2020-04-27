@@ -137,7 +137,8 @@ var courseInfo = {
             topic: new Topic( "** Exam #2", "" )
         },
         {
-            topic: new Topic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf" ),
+            topic: new DoubleTopic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf", "Video Lecture", "https://use.vg/U3D0eR" ),
+//            topic: new Topic( "Memory and Memory Technologies", "lectures/lecture16_Memory_and_Memory_Technologies.pdf" ),
             reading: new Reading("Assign #17 §§ 5.1 - 5.2"),
             assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 7)
         },
