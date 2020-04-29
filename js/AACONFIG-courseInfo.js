@@ -143,15 +143,16 @@ var courseInfo = {
             assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 7)
         },
         {
-            topic: new Topic( "Basics of Cache Memory", "lectures/lecture17_Basics_of_Cache_Memory.pdf" ),
+            topic: new DoubleTopic( "Basics of Cache Memory", "lectures/lecture17_Basics_of_Cache_Memory.pdf", "Video Lecture", "https://use.vg/Lww6eM" ),
+//            topic: new Topic( "Basics of Cache Memory", "lectures/lecture17_Basics_of_Cache_Memory.pdf" ),
             reading: new Reading("Assign #18 § 5.3")
         },
-        {
-            topic: new Topic( "Basics of Cache Memory (continued)", "lectures/lecture17_Basics_of_Cache_Memory.pdf" )
-        },
 //         {
-//             topic: new Topic( "Review Homework #8" )
+//             topic: new Topic( "Basics of Cache Memory (continued)", "lectures/lecture17_Basics_of_Cache_Memory.pdf" )
 //         },
+        {
+            topic: new Topic( "Review Homework #8" )
+        },
         {
             topic: new Topic( "** Exam #3", "" )
         }
